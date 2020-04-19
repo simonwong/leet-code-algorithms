@@ -1,2 +1,3 @@
 # leet-code-algorithms
-LeetCode上的算法题
+
+[LeetCode](https://leetcode-cn.com/) 上的算法题
