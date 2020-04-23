@@ -6,19 +6,15 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    let result = []
-    const hashMap = {}
+  const hashMap = new Map()
+  for (let i = 0; i < nums.length; i++) {
+    const cmp = target - nums[i]
 
-    nums.forEach((num, index) => {
-        const complement = target - num
-        // 这里是为了判断，当前值对应的另一个值是否存在hashMap中
-        if (hashMap.hasOwnProperty(complement)) {
-            result = [hashMap[complement], index]
-        }
-        hashMap[num] = index
-    })
-
-    return result
+    if (hashMap.has(cmp)) {
+      return [hashMap.get(cmp), i]
+    }
+    hashMap.set(nums[i], i)
+  }
 };
 
 twoSum([3, 2, 3], 6) // ==> [0, 2]
