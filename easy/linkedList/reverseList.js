@@ -12,21 +12,15 @@
  * @return {ListNode}
  */
 var reverseList = function(head) {
-  if (!head) return null
+  let newList = null
 
-  const valArr = []
-  let current = head
-  while (current != null) {
-    valArr.push(current.val)
-    current = current.next
+  while (head != null) {
+    const next = head.next
+    head.next = newList
+    newList = head
+    head = next
   }
-  const newLink = new ListNode(valArr[valArr.length - 1])
-  let newCur = newLink
-  for (let i = valArr.length - 2; i >= 0; i--) {
-    newCur.next = new ListNode(valArr[i])
-    newCur = newCur.next
-  }
-  return newLink
+  return newList
 };
 
 
