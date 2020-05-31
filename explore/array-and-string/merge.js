@@ -18,7 +18,7 @@ var merge = function(intervals) {
       i -= 1
     }
   }
-  console.log(sorted)
+  return sorted
 };
 
 var isSp = (a, b) => {
