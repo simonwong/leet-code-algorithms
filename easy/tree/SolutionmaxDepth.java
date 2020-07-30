@@ -9,7 +9,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class SolutionmaxDepth {
+class SolutionmaxDepth {
   public int maxDepth(TreeNode root) {
     if (root == null) {
       return 0;
