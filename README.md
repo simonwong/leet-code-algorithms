@@ -1,3 +1,5 @@
-# leet-code-algorithms
+### Algorithm solution in [LeetCode](https://leetcode-cn.com/) 🧐
 
-[LeetCode](https://leetcode-cn.com/) 上的算法题
+- 🌟 This is my leetCode [personal homepage](https://leetcode-cn.com/u/simonwong/) .
+- 🌦 I'm still a rookie.
+- 🤯 I'm currently immersed in the question about trees.
