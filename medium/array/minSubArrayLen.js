@@ -21,8 +21,7 @@ var minSubArrayLen = function(s, nums) {
   if (nums.length === 0) return 0
   if (nums.length === 1) return nums[0] >= s ? 1 : 0
 
-  let min = null
-
+  let min = Number.MAX_SAFE_INTEGER
   let sum = 0
   let len = 0
 
@@ -37,7 +36,7 @@ var minSubArrayLen = function(s, nums) {
       len += 1
     }
     if (sum >= s) {
-      min = min === null ? len : Math.min(min, len)
+      min = Math.min(min, len)
       sum = 0
       i += 1
       j = i
@@ -47,7 +46,7 @@ var minSubArrayLen = function(s, nums) {
       j++
     }
   }
-  return min || 0
+  return min === Number.MAX_SAFE_INTEGER ? 0 : min
 };
 
 minSubArrayLen(7, [1,1,2])
