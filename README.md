@@ -3,3 +3,43 @@
 - 🌟 This is my leetCode [personal homepage](https://leetcode-cn.com/u/simonwong/) .
 - 🌦 I'm still a rookie.
 - 🤯 I'm currently immersed in the question about tree.
+
+
+## tree
+
+### easy
+
+- [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
+- [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+- [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)
+- [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
+- [590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
+- [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
+- [面试题 04.04. 检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/)
+- [面试题68 - I. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
+
+
+### medium
+
+- [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+- [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
+- [1367. 二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)
+
+### hard
+
+- ...
+
+
+## dynamic programming
+
+### easy
+
+- ...
+
+### medium
+
+- ...
+
+### hard
+
+- ...
