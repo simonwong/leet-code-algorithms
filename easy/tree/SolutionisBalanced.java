@@ -1,5 +1,5 @@
-// 面试题 04.04. 检查平衡性
-// https://leetcode-cn.com/problems/check-balance-lcci/
+// 110. 平衡二叉树
+// https://leetcode-cn.com/problems/balanced-binary-tree/
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -10,11 +10,12 @@
  * }
  */
 class SolutionisBalanced {
-  public boolean flag = true;
+  boolean flag;
   public boolean isBalanced(TreeNode root) {
+    this.flag = true;
     dfs(root);
 
-    return flag;
+    return this.flag;
   }
 
   public int dfs(TreeNode root) {
@@ -25,7 +26,7 @@ class SolutionisBalanced {
     int rightTreeHeight = dfs(root.right) + 1;
 
     if (Math.abs(leftTreeHeight - rightTreeHeight) > 1) {
-      flag = false;
+      this.flag = false;
     }
     return Math.max(leftTreeHeight, rightTreeHeight);
   }

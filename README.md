@@ -11,6 +11,12 @@
 
 - [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 - [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+- [110. 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)
+
+  同:
+
+  - [面试题 04.04. 检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/)
+
 - [235. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 
   同：
