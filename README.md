@@ -37,6 +37,7 @@
 - [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 - [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
 - [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)
+- [623. 在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
 - [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
 - [894. 所有可能的满二叉树](https://leetcode-cn.com/problems/all-possible-full-binary-trees/)
 - [951. 翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)
