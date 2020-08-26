@@ -35,6 +35,7 @@
 ### medium
 
 - [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
+- [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) == REDO
 - [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
 - [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)
 - [623. 在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
