@@ -31,6 +31,7 @@
 - [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
 - [590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
 - [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
+- [897. 递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) == REDO
 - [面试题 04.04. 检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/)
 
 
