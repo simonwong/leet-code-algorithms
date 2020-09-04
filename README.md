@@ -26,6 +26,7 @@
   
   - [面试题68 - I. 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/)
 
+- [257. 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/)
 - [404. 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/)
 - [515. 在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/)
 - [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
@@ -46,7 +47,7 @@
 - [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
 - [894. 所有可能的满二叉树](https://leetcode-cn.com/problems/all-possible-full-binary-trees/)
 - [951. 翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)
-- [979. 在二叉树中分配硬币](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/)
+- [979. 在二叉树中分配硬币](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/) == REDO
 - [998. 最大二叉树 II](https://leetcode-cn.com/problems/maximum-binary-tree-ii/)
 - [1315. 祖父节点值为偶数的节点和](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/)
 - [1367. 二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)
