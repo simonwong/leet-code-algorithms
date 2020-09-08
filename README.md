@@ -47,6 +47,7 @@
 - [623. 在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
 - [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
 - [894. 所有可能的满二叉树](https://leetcode-cn.com/problems/all-possible-full-binary-trees/)
+- [919. 完全二叉树插入器](https://leetcode-cn.com/problems/complete-binary-tree-inserter/)
 - [951. 翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)
 - [979. 在二叉树中分配硬币](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/) == REDO
 - [998. 最大二叉树 II](https://leetcode-cn.com/problems/maximum-binary-tree-ii/)
