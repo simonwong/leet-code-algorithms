@@ -27,46 +27,46 @@ class Solution {
 /**
  * 使用 dp table 存储
  */
-// class Solution {
-//   public int fib(int N) {
-//     ArrayList<Integer> dp = new ArrayList<>(N + 1);
+class SolutionWithDpTable {
+  public int fib(int N) {
+    ArrayList<Integer> dp = new ArrayList<>(N + 1);
 
-//     dp.add(0);
-//     dp.add(1);
-//     dp.add(1);
+    dp.add(0);
+    dp.add(1);
+    dp.add(1);
 
-//     for (int i = 3; i <= N; i++) {
-//       dp.add(dp.get(i - 1) + dp.get(i - 2));
-//     }
-//     return dp.get(N);
-//   }
-// }
+    for (int i = 3; i <= N; i++) {
+      dp.add(dp.get(i - 1) + dp.get(i - 2));
+    }
+    return dp.get(N);
+  }
+}
 /*
  * 借助 哈希表 存储结果
  */
-// class Solution {
-//   public int fib(int N) {
-//     if (N < 1) {
-//       return 0;
-//     }
+class SolutionWithHashMap {
+  public int fib(int N) {
+    if (N < 1) {
+      return 0;
+    }
 
-//     HashMap<Integer, Integer> memo = new HashMap<>();
+    HashMap<Integer, Integer> memo = new HashMap<>();
 
-//     return helper(memo, N);
-//   }
+    return helper(memo, N);
+  }
 
-//   int helper (HashMap<Integer, Integer> memo, int N) {
-//     if (N == 0) {
-//       return 0;
-//     }
-//     if (N == 1 || N == 2) {
-//       return 1;
-//     }
+  int helper (HashMap<Integer, Integer> memo, int N) {
+    if (N == 0) {
+      return 0;
+    }
+    if (N == 1 || N == 2) {
+      return 1;
+    }
 
-//     if (memo.get(N) != null) {
-//       return memo.get(N);
-//     }
-//     memo.put(N, helper(memo, N - 1) + helper(memo, N - 2));
-//     return memo.get(N);
-//   }
-// }
+    if (memo.get(N) != null) {
+      return memo.get(N);
+    }
+    memo.put(N, helper(memo, N - 1) + helper(memo, N - 2));
+    return memo.get(N);
+  }
+}
