@@ -5,9 +5,9 @@
 - 🤯 I'm currently immersed in the question about tree.
 
 
-## tree
+## 树（Tree）
 
-### easy
+### 简单（Easy）
 
 - [101. 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/)
 - [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
@@ -38,7 +38,7 @@
 - [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)
 
 
-### medium
+### 中等（Medium）
 
 - [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 - [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
@@ -58,57 +58,57 @@
 - [1315. 祖父节点值为偶数的节点和](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/)
 - [1367. 二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)
 
-### hard
+### 困难（Hard）
 
 - [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/)
 
 
-## dynamic programming
+## 动态规划（Dynamic Programming）
 
-### easy
+### 简单（Easy）
 
 - ...
 
-### medium
+### 中等（Medium）
 
 - [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) 🌟 `经典问题` `多种解法`
 
-### hard
+### 困难（Hard）
 
 - ...
 
 
-## linked list
+## 链表（Linked List）
 
 
-### easy
+### 简单（Easy）
 
 - ...
 
-### medium
+### 中等（Medium）
 
 - [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
 - [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) `REDO`
 
-### hard
+### 困难（Hard）
 
 - ...
 
 
-## string
+## 字符串（string）
 
-### easy
+### 简单（Easy）
 
 - [459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)
 - [657. 机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/)
 
 
-## array
+## 数组（Array）
 
-### easy
+### 简单（Easy）
 
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) 🌟 `多种解法`
 
-### medium
+### 中等（Medium）
 
 - [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
