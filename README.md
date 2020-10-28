@@ -33,7 +33,7 @@
 - [572. 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
 - [590. N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
 - [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
-- [897. 递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) == REDO
+- [897. 递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) `REDO`
 - [面试题 04.04. 检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/)
 - [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)
 
@@ -43,7 +43,7 @@
 - [94. 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 - [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)
 - [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) == REDO
+- [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/) `REDO`
 - [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)
 - [437. 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)
 - [623. 在二叉树中增加一行](https://leetcode-cn.com/problems/add-one-row-to-tree/)
@@ -52,7 +52,7 @@
 - [894. 所有可能的满二叉树](https://leetcode-cn.com/problems/all-possible-full-binary-trees/)
 - [919. 完全二叉树插入器](https://leetcode-cn.com/problems/complete-binary-tree-inserter/)
 - [951. 翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)
-- [979. 在二叉树中分配硬币](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/) == REDO
+- [979. 在二叉树中分配硬币](https://leetcode-cn.com/problems/distribute-coins-in-binary-tree/) `REDO`
 - [998. 最大二叉树 II](https://leetcode-cn.com/problems/maximum-binary-tree-ii/)
 - [1123. 最深叶节点的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/)
 - [1315. 祖父节点值为偶数的节点和](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/)
@@ -71,7 +71,7 @@
 
 ### medium
 
-- ...
+- [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) 🌟 `经典问题` `多种解法`
 
 ### hard
 
@@ -88,7 +88,7 @@
 ### medium
 
 - [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
-- [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) == REDO
+- [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) `REDO`
 
 ### hard
 
@@ -107,7 +107,7 @@
 
 ### easy
 
-- [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
+- [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) 🌟 `多种解法`
 
 ### medium
 
