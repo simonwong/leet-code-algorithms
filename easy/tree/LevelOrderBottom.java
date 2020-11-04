@@ -16,7 +16,7 @@ import java.util.Collections;
 class Solution {
   List<List<Integer>> result;
   public List<List<Integer>> levelOrderBottom(TreeNode root) {
-    this.result = new ArrayList();
+    this.result = new ArrayList<>();
     this.bfs(root, 0);
     Collections.reverse(result);
     return this.result;
@@ -28,7 +28,7 @@ class Solution {
     }
 
     if (deep >= this.result.size()) {
-      List<Integer> row = new ArrayList();
+      List<Integer> row = new ArrayList<>();
       row.add(root.val);
       this.result.add(row);
     } else {
