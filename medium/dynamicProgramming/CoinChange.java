@@ -4,13 +4,6 @@
 import java.util.Arrays;
 import java.util.HashMap;
 
-// 状态转移方程
-
-// dp(n) = {
-//   0, n = 0
-//   -1, n < 0
-//   min{ dp(n - coin) + 1 | coin ⍷ conins  }, n > 0
-// }
 
 /**
  * dp table 迭代（自下而上）
