@@ -1,5 +1,5 @@
 // 合并区间
-// https://leetcode-cn.com/explore/learn/card/array-and-string/198/introduction-to-array/1413/
+// https://leetcode-cn.com/leetbook/read/array-and-string/c5tv3/
 /**
  * @param {number[][]} intervals
  * @return {number[][]}

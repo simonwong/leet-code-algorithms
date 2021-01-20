@@ -1,5 +1,5 @@
 // 搜索插入位置
-// https://leetcode-cn.com/explore/learn/card/array-and-string/198/introduction-to-array/1412/
+// https://leetcode-cn.com/leetbook/read/array-and-string/cxqdh/
 /**
  * @param {number[]} nums
  * @param {number} target

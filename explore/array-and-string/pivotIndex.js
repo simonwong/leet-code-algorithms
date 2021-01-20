@@ -1,5 +1,5 @@
 // 寻找数组的中心索引
-// https://leetcode-cn.com/explore/learn/card/array-and-string/198/introduction-to-array/770/
+// https://leetcode-cn.com/leetbook/read/array-and-string/yf47s/
 /**
  * @param {number[]} nums
  * @return {number}
