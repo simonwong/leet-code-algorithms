@@ -3,6 +3,7 @@
 ## 简单（Easy）
 
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) 🌟 `多种解法`
+- [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)
 
 ## 中等（Medium）
 
