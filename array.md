@@ -8,3 +8,4 @@
 ## 中等（Medium）
 
 - [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+- [1052. 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) `窗口滑动`
