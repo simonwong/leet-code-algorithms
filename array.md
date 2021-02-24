@@ -4,6 +4,7 @@
 
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) 🌟 `多种解法`
 - [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)
+- [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/)
 
 ## 中等（Medium）
 
