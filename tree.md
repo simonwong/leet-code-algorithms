@@ -51,6 +51,7 @@
 - [1123. 最深叶节点的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves/)
 - [1315. 祖父节点值为偶数的节点和](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/)
 - [1367. 二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)
+- [面试题 04.03. 特定深度节点链表](https://leetcode-cn.com/problems/list-of-depth-lcci/)
 
 ## 困难（Hard）
 
