@@ -6,8 +6,9 @@
 
 ## 中等（Medium）
 
-- [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) 🌟 `经典问题` `多种解法`
+- [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) 🌟 `经典问题` `01背包问题` `多种解法`
 - [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) 🌟 `经典问题` `多种解法`
+- [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) `01背包问题`
 
 ## 困难（Hard）
 
