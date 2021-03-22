@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-[算法题目](/大纲.md)
+## [算法题目](/题目url)
 
 [题目讲解]
 
@@ -15,9 +15,9 @@ assignees: ''
 
 [思路讲解]
 
-### 解法 1 ：暴力解法
+## 解法 1: 暴力解法
 
-```java
+```typescript
 class Solution {
 
 }
