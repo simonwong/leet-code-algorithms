@@ -11,6 +11,7 @@
 - [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) 🌟 `经典问题` `多种解法`
 - [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) `01背包问题`
 - [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)
+- [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)
 - [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) 🌟 `经典问题` `最长公共子序列`
 
 ## 困难（Hard）
