@@ -12,6 +12,7 @@
 - [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) `01背包问题`
 - [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)
 - [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)
+- [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)
 - [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) 🌟 `经典问题` `最长公共子序列`
 
 ## 困难（Hard）
