@@ -2,6 +2,7 @@
 
 ## 简单（Easy）
 
+- [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)
 - [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) `前缀和`
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) 🌟 `多种解法`
 - [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)
