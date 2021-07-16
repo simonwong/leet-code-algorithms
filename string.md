@@ -1,4 +1,4 @@
-# 字符串（string）
+# 字符串 (string)
 
 ## 简单（Easy）
 

@@ -1,4 +1,4 @@
-# 回溯（Backtracking）
+# 回溯 (Backtracking)
 
 ## 简单（Easy）
 

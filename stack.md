@@ -1,4 +1,4 @@
-# 链表（Linked List）
+# 栈 (Stack)
 
 
 ## 简单（Easy）

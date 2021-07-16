@@ -1,5 +1,4 @@
-
-# 双指针（Two Pointers）
+# 双指针 (Two Pointers)
 
 ## 简单（Easy）
 
