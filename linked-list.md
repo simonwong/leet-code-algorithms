@@ -4,6 +4,7 @@
 ## 简单（Easy）
 
 - [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+- [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) 同 [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)
 
 ## 中等（Medium）
 
