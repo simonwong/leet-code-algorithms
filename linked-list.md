@@ -14,6 +14,7 @@
 - [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) `REDO`
 - [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) `REDO` 穿针引线
 - [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
+- [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
 
 ## 困难（Hard）
 
