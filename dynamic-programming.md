@@ -6,6 +6,7 @@
 - [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
+- [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/)
 
 ## 中等（Medium）
