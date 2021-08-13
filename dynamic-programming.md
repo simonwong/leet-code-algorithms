@@ -1,17 +1,25 @@
 # 动态规划 (Dynamic Programming)
 
+## 动态规划学习计划
+
+1. P1
+  - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
+  - [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/)
+
+2. P2
+  - [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+  - [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
+
+3. P3
+  - [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
+
 ## 简单（Easy）
 
 - [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) `dp` `分治 + 线段树`
-- [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
-- [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
-- [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
-- [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/)
 
 ## 中等（Medium）
 
-- [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 - [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) 🌟 `经典问题`
 - [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) 🌟 `经典问题` `01背包问题` `多种解法`
 - [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) 🌟 `经典问题` `多种解法`
