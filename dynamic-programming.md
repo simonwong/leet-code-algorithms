@@ -10,9 +10,10 @@
   - [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
   - [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 
-3. P3
+3. P3 （打家劫舍系列）
   - [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
   - [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
+  - [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)
 
 ## 简单（Easy）
 
