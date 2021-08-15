@@ -15,6 +15,9 @@
   - [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
   - [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)
 
+4. P4
+  - [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+
 ## 简单（Easy）
 
 - [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) `dp` `分治 + 线段树`
