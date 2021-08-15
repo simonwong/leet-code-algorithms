@@ -16,7 +16,8 @@
   - [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)
 
 4. P4
-  - [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)
+  - [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) `redo`
+  - [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) `redo`
 
 ## 简单（Easy）
 

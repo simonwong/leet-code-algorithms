@@ -1,10 +1,6 @@
 // 55. 跳跃游戏
 // https://leetcode-cn.com/problems/jump-game/
 
-// 状态选择：跳当前位置 i 的 nums[i] 次
-// dp[i] 表示在 nums[i] 位置能否到达
-// base case: dp[nums.length - 1] = true
-// result: dp[0]
 function canJump(nums: number[]): boolean {
   let max = 0
 
@@ -16,6 +12,11 @@ function canJump(nums: number[]): boolean {
   }
   return true
 };
+
+// 状态选择：跳当前位置 i 的 nums[i] 次
+// dp[i] 表示在 nums[i] 位置能否到达
+// base case: dp[nums.length - 1] = true
+// result: dp[0]
 // function canJump(nums: number[]): boolean {
 //   const n = nums.length
 //   const dp: boolean[] = new Array(n)
