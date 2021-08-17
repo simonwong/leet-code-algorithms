@@ -46,16 +46,15 @@ function maxSubArray(nums: number[]): number {
 
 /**
  * 动态规划解法 - dp 压缩
+ *
+ * Kanade 算法
  */
 function maxSubArray_dp_compress(nums: number[]): number {
   let pre: number = 0
   let ans = Number.MIN_SAFE_INTEGER
 
   for (let i = 1; i <= nums.length; i++) {
-    pre = Math.max(
-      nums[i-1],
-      pre + nums[i-1]
-    )
+    pre = nums[i-1] + Math.max(pre, 0)
     ans = Math.max(ans, pre)
   }
 
@@ -65,7 +64,7 @@ function maxSubArray_dp_compress(nums: number[]): number {
  * 动态规划解法
  * dp[0] = 0
  * dp[1] = nums[0]
- * dp[i] = Math.max(nums[i-1], dp[i-1] + nums[i-1])
+ * dp[i] = nums[i-1] + Math.max(dp[i-1], 0)
  */
 function maxSubArray_by_dp(nums: number[]): number {
   const len = nums.length
@@ -73,10 +72,7 @@ function maxSubArray_by_dp(nums: number[]): number {
   let ans = Number.MIN_SAFE_INTEGER
 
   for (let i = 1; i <= nums.length; i++) {
-    dp[i] = Math.max(
-      nums[i-1],
-      dp[i-1] + nums[i-1]
-    )
+    dp[i] = nums[i-1] + Math.max(dp[i-1], 0)
     ans = Math.max(ans, dp[i])
   }
 

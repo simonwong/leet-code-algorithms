@@ -19,9 +19,11 @@
   - [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) `redo`
   - [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) `redo`
 
+5. P5
+  - [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) `Kanade 算法` `分治 + 线段树`
+  - [918. 环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/) `Kanade 算法`
 ## 简单（Easy）
 
-- [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) `dp` `分治 + 线段树`
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
 
 ## 中等（Medium）
