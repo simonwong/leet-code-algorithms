@@ -22,6 +22,10 @@
 5. P5
   - [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) `Kanade 算法` `分治 + 线段树`
   - [918. 环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/) `Kanade 算法`
+
+6. P6
+  - [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
+
 ## 简单（Easy）
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
