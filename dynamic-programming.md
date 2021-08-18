@@ -25,6 +25,7 @@
 
 6. P6
   - [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
+  - [1567. 乘积为正数的最长子数组长度](https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product/)
 
 ## 简单（Easy）
 
