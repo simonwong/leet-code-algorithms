@@ -27,6 +27,9 @@
   - [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
   - [1567. 乘积为正数的最长子数组长度](https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product/)
 
+7. P7
+  - [1014. 最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)
+
 ## 简单（Easy）
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
