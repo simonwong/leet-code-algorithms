@@ -27,7 +27,7 @@
  *
  * @param prices
  */
-function maxProfit(prices: number[]): number {
+function maxProfitII(prices: number[]): number {
   const n = prices.length
   let dp_0 = 0
   let dp_1 = Number.MIN_SAFE_INTEGER

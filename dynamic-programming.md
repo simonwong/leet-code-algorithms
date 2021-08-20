@@ -10,7 +10,9 @@
   - [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
   - [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 
-3. P3 （打家劫舍系列）
+3. P3
+
+    **打家劫舍系列**
   - [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
   - [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
   - [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)
@@ -29,6 +31,15 @@
 
 7. P7
   - [1014. 最佳观光组合](https://leetcode-cn.com/problems/best-sightseeing-pair/)
+
+    **股票买卖系列**
+
+  - [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+  - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+8. P8
+
+  -
 
 ## 简单（Easy）
 
