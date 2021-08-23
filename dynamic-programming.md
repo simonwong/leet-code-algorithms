@@ -40,6 +40,7 @@
 8. P8
 
   - [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
+  - [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
 
 ## 简单（Easy）
 
