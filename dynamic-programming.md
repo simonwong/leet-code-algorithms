@@ -45,6 +45,7 @@
 9. P9
 
   - [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
+  - [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
 
 ## 简单（Easy）
 
