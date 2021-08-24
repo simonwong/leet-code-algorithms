@@ -42,6 +42,10 @@
   - [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
   - [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
 
+9. P9
+
+  - [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
+
 ## 简单（Easy）
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
