@@ -50,6 +50,7 @@
 10. p10
 
   - [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
+  - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 
 ## 简单（Easy）
 
