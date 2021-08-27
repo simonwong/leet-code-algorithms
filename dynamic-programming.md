@@ -52,6 +52,11 @@
   - [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
   - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 
+11. p11
+
+  - [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
+  - [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
+
 ## 简单（Easy）
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
