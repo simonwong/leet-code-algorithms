@@ -57,6 +57,11 @@
   - [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
   - [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
 
+12. p12
+
+  - [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)
+  - [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
+
 ## 简单（Easy）
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
