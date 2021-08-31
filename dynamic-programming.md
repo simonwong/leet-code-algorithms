@@ -67,6 +67,10 @@
   - [1314. 矩阵区域和](https://leetcode-cn.com/problems/matrix-block-sum/) 🌟 `经典问题` `二维前缀和` `子矩阵和`
   - [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
 
+14. p14
+
+  - [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
+
 ## 简单（Easy）
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
