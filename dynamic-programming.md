@@ -72,6 +72,10 @@
   - [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
   - [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
 
+15. p15
+
+  - [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
+
 ## 简单（Easy）
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
