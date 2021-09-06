@@ -77,6 +77,10 @@
   - [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
   - [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
 
+16. p16
+
+  - [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) 🌟 `经典问题`
+
 ## 简单（Easy）
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
