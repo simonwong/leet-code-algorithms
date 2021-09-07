@@ -80,6 +80,7 @@
 16. p16
 
   - [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) 🌟 `经典问题`
+  - [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 
 ## 简单（Easy）
 
