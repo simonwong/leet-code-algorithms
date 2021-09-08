@@ -82,13 +82,16 @@
   - [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) 🌟 `经典问题`
   - [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 
+17. p17
+
+  - [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+
 ## 简单（Easy）
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
 
 ## 中等（Medium）
 
-- [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) 🌟 `经典问题`
 - [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) 🌟 `经典问题` `01背包问题` `多种解法`
 - [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) 🌟 `经典问题` `多种解法`
 - [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) `01背包问题`
