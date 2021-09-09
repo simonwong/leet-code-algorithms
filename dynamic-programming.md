@@ -85,6 +85,7 @@
 17. p17
 
   - [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+  - [376. 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
 
 ## 简单（Easy）
 
