@@ -87,6 +87,10 @@
   - [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
   - [376. 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
 
+19. 平9
+
+  - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
+
 ## 简单（Easy）
 
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) `状态压缩`
