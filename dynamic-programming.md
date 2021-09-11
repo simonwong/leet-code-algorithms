@@ -37,59 +37,65 @@
   - [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
   - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
-8. P8
+8. p8
+
+  - [309. 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
+  - [714. 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
+
+9. P9
 
   - [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
   - [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
 
-9. P9
+10. P10
 
   - [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)
   - [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
 
-10. p10
+11. p11
 
   - [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
   - [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
 
-11. p11
+12. p12
 
   - [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/)
   - [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)
 
-12. p12
+13. p13
 
   - [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)
   - [120. 三角形最小路径和](https://leetcode-cn.com/problems/triangle/)
 
-13. p13
+14. p14
 
   - [1314. 矩阵区域和](https://leetcode-cn.com/problems/matrix-block-sum/) 🌟 `经典问题` `二维前缀和` `子矩阵和`
   - [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)
 
-14. p14
+15. p15
 
   - [62. 不同路径](https://leetcode-cn.com/problems/unique-paths/)
   - [63. 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)
 
-15. p15
+16. p16
 
   - [64. 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)
   - [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/)
 
-16. p16
+17. p17
 
   - [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) 🌟 `经典问题`
   - [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)
 
-17. p17
+18. p18
 
   - [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
   - [376. 摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/)
 
-19. 平9
+19. p19
 
   - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
+  - [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) 🌟 `经典问题` `最长公共子序列`
 
 ## 简单（Easy）
 
@@ -102,8 +108,6 @@
 - [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) `01背包问题`
 - [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)
 - [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)
-- [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)
-- [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) 🌟 `经典问题` `最长公共子序列`
 
 ## 困难（Hard）
 
