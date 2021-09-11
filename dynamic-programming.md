@@ -96,6 +96,7 @@
 
   - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
   - [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) 🌟 `经典问题` `最长公共子序列`
+  - [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) 🌟 `经典问题`
 
 ## 简单（Easy）
 
@@ -111,5 +112,4 @@
 
 ## 困难（Hard）
 
-- [72. 编辑距离](https://leetcode-cn.com/problems/edit-distance/) 🌟 `经典问题`
 - [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)
