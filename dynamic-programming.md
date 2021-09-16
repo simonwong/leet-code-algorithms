@@ -107,6 +107,7 @@
 
   - [377. 组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/)
   - [343. 整数拆分](https://leetcode-cn.com/problems/integer-break/)
+  - [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
 
 ## 简单（Easy）
 
