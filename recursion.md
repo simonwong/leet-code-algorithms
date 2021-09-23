@@ -3,6 +3,7 @@
 
 ## 简单（Easy）
 
+- [326. 3的幂](https://leetcode-cn.com/problems/power-of-three/)
 
 ## 中等（Medium）
 
