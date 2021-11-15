@@ -3,6 +3,7 @@
 ## 简单（Easy）
 
 - [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
+- [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
 - [704. 二分查找](https://leetcode-cn.com/problems/binary-search/)
 
 ## 中等（Medium）
