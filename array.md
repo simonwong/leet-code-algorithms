@@ -10,6 +10,7 @@
 - [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)
 - [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/)
 - [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)
+- [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
 
 ## 中等（Medium）
 
