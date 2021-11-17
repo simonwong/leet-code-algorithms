@@ -2,6 +2,7 @@
 
 ## 简单（Easy）
 
+- [167. 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 - [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)
 ## 中等（Medium）
 
