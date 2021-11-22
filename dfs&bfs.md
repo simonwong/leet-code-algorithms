@@ -2,6 +2,7 @@
 
 ## 简单（Easy）
 
+- [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)
 - [733. 图像渲染](https://leetcode-cn.com/problems/flood-fill/)
 
 ## 中等（Medium）
