@@ -8,6 +8,7 @@
 ## 中等（Medium）
 
 - [542. 01 矩阵](https://leetcode-cn.com/problems/01-matrix/)
+- [994. 腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/)
 
 ## 困难（Hard）
 
