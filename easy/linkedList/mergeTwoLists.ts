@@ -12,32 +12,26 @@
 // 21. 合并两个有序链表
 // https://leetcode-cn.com/problems/merge-two-sorted-lists/
 function mergeTwoLists(l1: ListNode | null, l2: ListNode | null): ListNode | null {
-  let curI = l1
-  let curJ = l2
+  let ans: ListNode = new ListNode(-1)
+  let current: ListNode = ans
 
-  let mergedList: ListNode | null = null
-  let current: ListNode | null = null
-
-  while (curI || curJ) {
-    const iVal = curI ? curI.val : Number.MAX_SAFE_INTEGER
-    const jVal = curJ ? curJ.val : Number.MAX_SAFE_INTEGER
+  while (l1 || l2) {
+    const iVal = l1 ? l1.val : Number.MAX_SAFE_INTEGER
+    const jVal = l2 ? l2.val : Number.MAX_SAFE_INTEGER
 
     let curVal: number
 
     if (iVal < jVal) {
       curVal = iVal
-      curI = curI.next
+      l1 = l1.next
     } else {
       curVal = jVal
-      curJ = curJ.next
+      l2 = l2.next
     }
 
-    if (!current) {
-      current = mergedList = new ListNode(curVal)
-    } else {
-      current.next = new ListNode(curVal)
-      current = current.next
-    }
+    current.next = new ListNode(curVal)
+    current = current.next
   }
-  return mergedList
+
+  return ans.next
 };
