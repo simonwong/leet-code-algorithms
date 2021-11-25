@@ -10,6 +10,7 @@
 - [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)
 - [46. 全排列](https://leetcode-cn.com/problems/permutations/) 🌟 `经典问题` `多种解法`
 - [77. 组合](https://leetcode-cn.com/problems/combinations/)
+- [784. 字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation/)
 
 ## 困难（Hard）
 
