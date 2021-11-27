@@ -2,6 +2,7 @@
 
 ## 简单（Easy）
 
+- [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
 - [231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)
 
 ## 中等（Medium）
