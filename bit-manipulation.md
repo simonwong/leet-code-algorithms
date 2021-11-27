@@ -2,6 +2,7 @@
 
 ## 简单（Easy）
 
+- [231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)
 
 ## 中等（Medium）
 
