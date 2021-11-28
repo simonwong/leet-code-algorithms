@@ -2,6 +2,7 @@
 
 ## 简单（Easy）
 
+- [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
 - [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
 - [231. 2 的幂](https://leetcode-cn.com/problems/power-of-two/)
 
