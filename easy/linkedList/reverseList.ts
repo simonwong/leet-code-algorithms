@@ -12,12 +12,36 @@
  * }
  */
 
-function reverseList(head: ListNode | null, current?: ListNode | null): ListNode | null {
-  if (head == null) {
-    return current || null
+function reverseList(head: ListNode | null): ListNode | null {
+  let cur = head
+  let ans = null
+  while (cur != null) {
+    const next = cur.next
+    cur.next = ans
+    ans = cur
+    cur = next
   }
-  const next = current || null
-  current = new ListNode(head.val)
-  current.next = next
-  return reverseList(head.next, current)
+  return ans
 };
+
+// 方案二
+// function reverseList(head: ListNode | null): ListNode | null {
+//   if (head == null || head.next == null) {
+//     return head
+//   }
+//   const cur = reverseList(head.next)
+//   head.next.next = head
+//   head.next = null
+//   return cur
+// };
+
+// 方案一
+// function reverseList(head: ListNode | null, current?: ListNode | null): ListNode | null {
+//   if (head == null) {
+//     return current || null
+//   }
+//   const next = current || null
+//   current = new ListNode(head.val)
+//   current.next = next
+//   return reverseList(head.next, current)
+// };
