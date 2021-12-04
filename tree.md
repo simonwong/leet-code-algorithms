@@ -58,6 +58,8 @@
 - [1367. 二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree/)
 - [面试题 04.03. 特定深度节点链表](https://leetcode-cn.com/problems/list-of-depth-lcci/)
 
+- [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/)
+
 ## 困难（Hard）
 
 - [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/)
