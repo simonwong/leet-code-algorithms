@@ -30,6 +30,8 @@
 - [700. 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)
 - [897. 递增顺序查找树](https://leetcode-cn.com/problems/increasing-order-search-tree/) `REDO`
 - [面试题 04.04. 检查平衡性](https://leetcode-cn.com/problems/check-balance-lcci/)
+
+- [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/)
 - [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)
 
 
