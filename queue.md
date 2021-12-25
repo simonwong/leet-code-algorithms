@@ -1,4 +1,4 @@
-# 散列表 (HashTable)
+# 队列 (Queue)
 
 ## 简单（Easy）
 
