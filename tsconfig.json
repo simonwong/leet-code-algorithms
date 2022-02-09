@@ -10,6 +10,7 @@
     "jsx": "react",
     "esModuleInterop": true,
     "baseUrl": "./",
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "downlevelIteration": true
   },
 }

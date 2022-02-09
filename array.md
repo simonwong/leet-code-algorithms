@@ -11,6 +11,7 @@
 - [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/)
 - [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/)
 - [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
+- [2006. 差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/)
 
 ## 中等（Medium）
 
