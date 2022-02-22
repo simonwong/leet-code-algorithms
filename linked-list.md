@@ -15,6 +15,7 @@
 - [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/) `REDO` 穿针引线
 - [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)
 - [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+- [146. LRU 缓存](https://leetcode-cn.com/problems/lru-cache/)
 - [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)
 
 ## 困难（Hard）
