@@ -118,6 +118,7 @@
 - [375. 猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/)
 - [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) 🌟 `经典问题` `多种解法`
 - [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/) `01背包问题`
+- [494. 目标和](https://leetcode-cn.com/problems/target-sum/)
 - [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)
 - [650. 只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/)
 - [712. 两个字符串的最小ASCII删除和](https://leetcode-cn.com/problems/minimum-ascii-delete-sum-for-two-strings/)
