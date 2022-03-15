@@ -9,7 +9,7 @@
 ## 中等（Medium）
 
 - [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)
-
+- [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
 
 ## 困难（Hard）
 
